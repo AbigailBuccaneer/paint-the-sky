@@ -6,7 +6,8 @@
 
 game is made with [LÖVE](http://love2d.org/)
 
-run love inside the directory
+* windows: run `paint-the-sky.exe`
+* linux/mac: get love, run `love paint-the-sky.love`
 
 # instructions
 
