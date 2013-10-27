@@ -1,5 +1,6 @@
 # paint the sky 
 ## for [0h game jam 2013](http://0hgame.eu/)
+![here is a screenshot](/screenshot.png)
 
 # running the game
 
